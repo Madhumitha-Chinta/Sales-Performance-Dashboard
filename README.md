@@ -1,4 +1,5 @@
-# Sales-Performance-Dashboard
+# Sales Performance Dashboard
+
 A comprehensive end-to-end data analysis project using the Superstore dataset. This project features a professional Sales Performance Dashboard built with Streamlit, designed to track key business metrics and provide actionable insights into product performance, regional sales, and customer segments.
 
 ## Features

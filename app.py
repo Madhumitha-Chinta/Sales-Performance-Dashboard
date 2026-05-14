@@ -6,7 +6,6 @@ from data_processing import load_data, clean_data, filter_data, calculate_kpis
 # Page configuration
 st.set_page_config(
     page_title="Sales Performance Dashboard",
-    page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -37,7 +36,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Main Title
-st.title("📊 Sales Performance Dashboard")
+st.title("Sales Performance Dashboard")
 st.markdown("Analyze top-performing products, regions, and customer segments based on Superstore data.")
 
 # Load Data
